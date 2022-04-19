@@ -9,7 +9,7 @@ A podcast app developed using flutter
 
 ## Screen Image
 
-
+<img width="295" alt="Screenshot 2022-04-19 at 06 03 29" src="https://user-images.githubusercontent.com/62282706/164010536-3dfaa32a-03be-49d3-9451-218a0318be74.png">
 
 
 
